@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c13c98b5-6640-4eb6-b050-c767eb144f84" name="Changes" comment="This is the base file" />
+    <list default="true" id="c13c98b5-6640-4eb6-b050-c767eb144f84" name="Changes" comment="This is the base file with a second change">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663851435185</updated>
       <workItem from="1663851442981" duration="358000" />
-      <workItem from="1663851841701" duration="619000" />
+      <workItem from="1663851841701" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="This is the base file">
       <created>1663852371338</created>
@@ -55,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663852371339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is the base file">
+      <created>1663852488694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663852488694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is the base file with a second change">
+      <created>1663852729773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663852729773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the base file" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the base file" />
+    <MESSAGE value="This is the base file with a second change" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the base file with a second change" />
   </component>
 </project>
